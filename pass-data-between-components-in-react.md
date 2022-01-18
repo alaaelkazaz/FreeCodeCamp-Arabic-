@@ -345,7 +345,7 @@ Child Component
 
 هذا كل ما في الأمر!
 
-يمكنك [  إيجاد الكو علي github ](https://github.com/nishant-666/Passing-data-in-React)  if you want to  .
+يمكنك [  إيجاد الكود علي github ](https://github.com/nishant-666/Passing-data-in-React).
 إذا كنت ترغب في تجربة المزيد.
 > حسنا، هذا هو كل ما لدينا في هذا الدرس يا رفاق . تعلمٌ سعيد.
 
